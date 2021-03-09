@@ -5,9 +5,8 @@ import Header from "../components/header"
 export default function About() {
   return (
     <Layout>
-      <Header headerText="About Gatsby y" />
-      <Header headerText="It's pretty cool" />
-      <p>Such wow. Very React.</p>
+      <Header headerText="Testsite von Raphael" />
+      <p>Wow!</p>
     </Layout>
   )
 }

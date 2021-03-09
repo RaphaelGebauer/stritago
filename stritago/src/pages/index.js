@@ -5,8 +5,8 @@ import Header from "../components/header"
 export default function Home() {
   return (
     <Layout>
-      <Header headerText="Hello Gatsby!" />
-      <p>What a world.</p>
+      <Header headerText="Homesite" />
+      <p>Random Bild:</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </Layout>
   )
